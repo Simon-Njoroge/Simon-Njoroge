@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simon-Njoroge
 - 👀 I’m interested in AI engineering 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on Web development 
 - 📫 How to reach me mukirisimon22@gmail.com 
 
