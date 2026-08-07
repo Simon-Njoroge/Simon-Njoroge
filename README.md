@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqMrUgi48BhQoGwZAEgkX6EeNQCfCpM1s8FAEA9lkug&s=10)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Simon Njoroge</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" />
@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simon-njoroge" alt="simon-njoroge" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://myportfolioversion2.netlify.app/](https://myportfolioversion2.netlify.app/)
-
 - 💬 Ask me about **react,javascript,typescript, python**
 
 - 📫 How to reach me **mukirisimon22@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qjHXa2dF0dlqMkOMxXASsJw82L1hZRcT/view?usp=sharing](https://drive.google.com/file/d/1qjHXa2dF0dlqMkOMxXASsJw82L1hZRcT/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
