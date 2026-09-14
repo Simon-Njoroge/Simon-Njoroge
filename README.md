@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/hero.svg" width="900" alt="Simon Njoroge — machine learning & AI engineer. A model reads a prompt, thinks, and answers." />
+  <img src="./assets/ascii.svg" width="900" alt="Simon Njoroge — machine learning & AI engineer. Noise resolves into a neural network and his name." />
 </p>
 
 I build machine learning systems that ship: retrieval-augmented LLM pipelines, model fine-tuning and evaluation, and the FastAPI + React products that put them in front of users. Based in Nairobi, working on AI for African markets.
@@ -15,7 +15,7 @@ I build machine learning systems that ship: retrieval-augmented LLM pipelines, m
 **Before** — BSc Computer Science (Kirinyaga University); mobile and web engineering at eMobilis and Teach2Give; Microsoft AI Fundamentals certified.
 
 <p align="center">
-  <img src="./assets/training.svg" width="900" alt="Training run: train and validation loss falling over 40 epochs" />
+  <img src="./assets/hero.svg" width="900" alt="A model reads a prompt, thinks, and answers." />
 </p>
 
 ### What I work with
