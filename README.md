@@ -10,9 +10,9 @@
 
 I build machine learning systems that ship: retrieval-augmented LLM pipelines, model fine-tuning and evaluation, and the FastAPI + React products that put them in front of users. Based in Nairobi, working on AI for African markets.
 
-**Now** — Lead Systems Engineer at Nyakezi Global, building an AI-assisted legal platform for Kenya: document intelligence over case law, structured drafting, and evaluation harnesses so the models stay honest.
+**Now**: Lead Systems Engineer at Nyakezi Global, building an AI-assisted legal platform for Kenya: document intelligence over case law, structured drafting, and evaluation harnesses so the models stay honest.
 
-**Before** — BSc Computer Science (Kirinyaga University); mobile and web engineering at eMobilis and Teach2Give; Microsoft AI Fundamentals certified.
+**Before**: BSc Computer Science (Kirinyaga University); mobile and web engineering at eMobilis and Teach2Give; Microsoft AI Fundamentals certified.
 
 <p align="center">
   <img src="./assets/hero.svg" width="900" alt="A model reads a prompt, thinks, and answers." />
@@ -32,13 +32,13 @@ I build machine learning systems that ship: retrieval-augmented LLM pipelines, m
 
 - Reinforcement learning from feedback for domain-specific assistants
 - Efficient inference: quantisation and serving small models on modest hardware
-- Kiswahili and Sheng NLP — low-resource language data and evaluation
+- Kiswahili and Sheng NLP: low-resource language data and evaluation
 
 ### Let's talk
 
 - Email: [mukirisimon22@gmail.com](mailto:mukirisimon22@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-simon](https://www.linkedin.com/in/dev-simon)
-- Writing: [dev.to/dev.simon](https://dev.to/dev.simon)
+- LinkedIn: [linkedin.com/in/youngdeveloper](https://www.linkedin.com/in/youngdeveloper)
+- Writing: [dev.to/dev_simon](https://dev.to/dev_simon)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Simon-Njoroge&show_icons=true&hide_border=true&bg_color=12161F&title_color=E8ECF4&text_color=A7B0C4&icon_color=8B9CFF&border_radius=18" height="165" alt="GitHub stats" />
