@@ -41,8 +41,8 @@ I build machine learning systems that ship: retrieval-augmented LLM pipelines, m
 - Writing: [dev.to/dev_simon](https://dev.to/dev_simon)
 
 <p align="center">
-  <img src="https://github.com/anuraghazra/github-readme-stats/api?username=Simon-Njoroge&show_icons=true&hide_border=true&bg_color=12161F&title_color=E8ECF4&text_color=A7B0C4&icon_color=8B9CFF&border_radius=18" height="165" alt="GitHub stats" />
-  <img src="https://github.com/anuraghazra/github-readme-stats/api/top-langs?username=Simon-Njoroge&layout=compact&hide_border=true&bg_color=12161F&title_color=E8ECF4&text_color=A7B0C4&border_radius=18" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-theta-eight-23.vercel.app/api?username=Simon-Njoroge&show_icons=true&hide_border=true&bg_color=12161F&title_color=E8ECF4&text_color=A7B0C4&icon_color=8B9CFF&border_radius=18" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-theta-eight-23.vercel.app/api/top-langs?username=Simon-Njoroge&layout=compact&hide_border=true&bg_color=12161F&title_color=E8ECF4&text_color=A7B0C4&border_radius=18" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
