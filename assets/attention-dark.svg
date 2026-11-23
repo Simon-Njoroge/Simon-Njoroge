@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="252" viewBox="0 0 900 252" role="img" aria-label="Self-attention, one head. The sentence &quot;Every token asks which earlier words matter most&quot; is written one token at a time, and each new token draws arcs back to the earlier tokens it attends to; heavier arcs mean more attention.">
+<style>text{font:13px/1 ui-monospace,"SF Mono","Cascadia Mono",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace;fill:#8F8D85;text-anchor:middle}.l{font-size:11px;letter-spacing:1.4px;text-anchor:start}.e{text-anchor:end}.a{fill:none;stroke:#D97757;stroke-linecap:round;stroke-dasharray:1;opacity:.5;animation:13s linear infinite}.t{animation:13s linear infinite}@media (prefers-reduced-motion:reduce){.a,.t{animation:none}}@keyframes t0{0%,1.15%{opacity:0}3.08%{opacity:1;fill:#F0EEE6}10.00%{fill:#F0EEE6}13.46%{fill:#8F8D85}89.23%{opacity:1}95.38%,to{opacity:0}}.t0{animation-name:t0}@keyframes t1{0%,4.62%{opacity:0}6.54%{opacity:1;fill:#F0EEE6}13.46%{fill:#F0EEE6}16.92%{fill:#8F8D85}89.23%{opacity:1}95.38%,to{opacity:0}}.t1{animation-name:t1}@keyframes a1{0%,4.62%{stroke-dashoffset:1;opacity:1}9.23%,13.46%{stroke-dashoffset:0;opacity:1}16.92%,89.23%{stroke-dashoffset:0;opacity:.5}95.38%,to{stroke-dashoffset:0;opacity:0}}.a1{animation-name:a1}@keyframes t2{0%,13.46%{opacity:0}15.38%{opacity:1;fill:#F0EEE6}22.31%{fill:#F0EEE6}25.77%{fill:#8F8D85}89.23%{opacity:1}95.38%,to{opacity:0}}.t2{animation-name:t2}@keyframes a2{0%,13.46%{stroke-dashoffset:1;opacity:1}18.08%,22.31%{stroke-dashoffset:0;opacity:1}25.77%,89.23%{stroke-dashoffset:0;opacity:.5}95.38%,to{stroke-dashoffset:0;opacity:0}}.a2{animation-name:a2}@keyframes t3{0%,22.31%{opacity:0}24.23%{opacity:1;fill:#F0EEE6}31.15%{fill:#F0EEE6}34.62%{fill:#8F8D85}89.23%{opacity:1}95.38%,to{opacity:0}}.t3{animation-name:t3}@keyframes a3{0%,22.31%{stroke-dashoffset:1;opacity:1}26.92%,31.15%{stroke-dashoffset:0;opacity:1}34.62%,89.23%{stroke-dashoffset:0;opacity:.5}95.38%,to{stroke-dashoffset:0;opacity:0}}.a3{animation-name:a3}@keyframes t4{0%,31.15%{opacity:0}33.08%{opacity:1;fill:#F0EEE6}40.00%{fill:#F0EEE6}43.46%{fill:#8F8D85}89.23%{opacity:1}95.38%,to{opacity:0}}.t4{animation-name:t4}@keyframes a4{0%,31.15%{stroke-dashoffset:1;opacity:1}35.77%,40.00%{stroke-dashoffset:0;opacity:1}43.46%,89.23%{stroke-dashoffset:0;opacity:.5}95.38%,to{stroke-dashoffset:0;opacity:0}}.a4{animation-name:a4}@keyframes t5{0%,40.00%{opacity:0}41.92%{opacity:1;fill:#F0EEE6}48.85%{fill:#F0EEE6}52.31%{fill:#8F8D85}89.23%{opacity:1}95.38%,to{opacity:0}}.t5{animation-name:t5}@keyframes a5{0%,40.00%{stroke-dashoffset:1;opacity:1}44.62%,48.85%{stroke-dashoffset:0;opacity:1}52.31%,89.23%{stroke-dashoffset:0;opacity:.5}95.38%,to{stroke-dashoffset:0;opacity:0}}.a5{animation-name:a5}@keyframes t6{0%,48.85%{opacity:0}50.77%{opacity:1;fill:#F0EEE6}57.69%{fill:#F0EEE6}61.15%{fill:#8F8D85}89.23%{opacity:1}95.38%,to{opacity:0}}.t6{animation-name:t6}@keyframes a6{0%,48.85%{stroke-dashoffset:1;opacity:1}53.46%,57.69%{stroke-dashoffset:0;opacity:1}61.15%,89.23%{stroke-dashoffset:0;opacity:.5}95.38%,to{stroke-dashoffset:0;opacity:0}}.a6{animation-name:a6}@keyframes t7{0%,57.69%{opacity:0}59.62%{opacity:1;fill:#F0EEE6}66.54%{fill:#F0EEE6}89.23%{opacity:1}95.38%,to{opacity:0}}.t7{animation-name:t7}@keyframes a7{0%,57.69%{stroke-dashoffset:1;opacity:1}62.31%,66.54%{stroke-dashoffset:0;opacity:1}70.00%,89.23%{stroke-dashoffset:0;opacity:.5}95.38%,to{stroke-dashoffset:0;opacity:0}}.a7{animation-name:a7}</style>
+<rect x=".5" y=".5" width="899" height="251" rx="14" fill="#161614" stroke="#2A2925"/>
+<text class="l" x="42" y="40">SELF-ATTENTION · ONE HEAD</text>
+<text class="l e" x="858" y="40">LINE WEIGHT = ATTENTION</text>
+<circle cx="118.0" cy="176" r="1.6" fill="#7C7A71"/>
+<text class="t t0" x="118.0" y="204">Every</text>
+<circle cx="212.9" cy="176" r="1.6" fill="#7C7A71"/>
+<text class="t t1" x="212.9" y="204">token</text>
+<path class="a a1" pathLength="1" stroke-width="4.1" stroke-opacity="1.00" d="M212.9 176C212.9 135 118.0 135 118.0 176"/>
+<circle cx="307.7" cy="176" r="1.6" fill="#7C7A71"/>
+<text class="t t2" x="307.7" y="204">asks</text>
+<path class="a a2" pathLength="1" stroke-width="1.5" stroke-opacity="0.47" d="M307.7 176C307.7 118 118.0 118 118.0 176"/>
+<path class="a a2" pathLength="1" stroke-width="3.2" stroke-opacity="0.82" d="M307.7 176C307.7 135 212.9 135 212.9 176"/>
+<circle cx="402.6" cy="176" r="1.6" fill="#7C7A71"/>
+<text class="t t3" x="402.6" y="204">which</text>
+<path class="a a3" pathLength="1" stroke-width="1.0" stroke-opacity="0.37" d="M402.6 176C402.6 101 118.0 101 118.0 176"/>
+<path class="a a3" pathLength="1" stroke-width="1.7" stroke-opacity="0.51" d="M402.6 176C402.6 118 212.9 118 212.9 176"/>
+<path class="a a3" pathLength="1" stroke-width="2.7" stroke-opacity="0.72" d="M402.6 176C402.6 135 307.7 135 307.7 176"/>
+<circle cx="497.4" cy="176" r="1.6" fill="#7C7A71"/>
+<text class="t t4" x="497.4" y="204">earlier</text>
+<path class="a a4" pathLength="1" stroke-width="1.2" stroke-opacity="0.40" d="M497.4 176C497.4 101 212.9 101 212.9 176"/>
+<path class="a a4" pathLength="1" stroke-width="1.4" stroke-opacity="0.44" d="M497.4 176C497.4 118 307.7 118 307.7 176"/>
+<path class="a a4" pathLength="1" stroke-width="2.7" stroke-opacity="0.72" d="M497.4 176C497.4 135 402.6 135 402.6 176"/>
+<circle cx="592.3" cy="176" r="1.6" fill="#7C7A71"/>
+<text class="t t5" x="592.3" y="204">words</text>
+<path class="a a5" pathLength="1" stroke-width="1.0" stroke-opacity="0.37" d="M592.3 176C592.3 84 212.9 84 212.9 176"/>
+<path class="a a5" pathLength="1" stroke-width="1.0" stroke-opacity="0.37" d="M592.3 176C592.3 101 307.7 101 307.7 176"/>
+<path class="a a5" pathLength="1" stroke-width="1.5" stroke-opacity="0.47" d="M592.3 176C592.3 118 402.6 118 402.6 176"/>
+<path class="a a5" pathLength="1" stroke-width="2.4" stroke-opacity="0.65" d="M592.3 176C592.3 135 497.4 135 497.4 176"/>
+<circle cx="687.1" cy="176" r="1.6" fill="#7C7A71"/>
+<text class="t t6" x="687.1" y="204">matter</text>
+<path class="a a6" pathLength="1" stroke-width="1.0" stroke-opacity="0.37" d="M687.1 176C687.1 67 212.9 67 212.9 176"/>
+<path class="a a6" pathLength="1" stroke-width="1.5" stroke-opacity="0.47" d="M687.1 176C687.1 84 307.7 84 307.7 176"/>
+<path class="a a6" pathLength="1" stroke-width="1.0" stroke-opacity="0.37" d="M687.1 176C687.1 101 402.6 101 402.6 176"/>
+<path class="a a6" pathLength="1" stroke-width="1.0" stroke-opacity="0.37" d="M687.1 176C687.1 118 497.4 118 497.4 176"/>
+<path class="a a6" pathLength="1" stroke-width="2.1" stroke-opacity="0.58" d="M687.1 176C687.1 135 592.3 135 592.3 176"/>
+<circle cx="782.0" cy="176" r="1.6" fill="#7C7A71"/>
+<text class="t t7" x="782.0" y="204">most</text>
+<path class="a a7" pathLength="1" stroke-width="1.0" stroke-opacity="0.37" d="M782.0 176C782.0 67 307.7 67 307.7 176"/>
+<path class="a a7" pathLength="1" stroke-width="1.0" stroke-opacity="0.37" d="M782.0 176C782.0 84 402.6 84 402.6 176"/>
+<path class="a a7" pathLength="1" stroke-width="1.0" stroke-opacity="0.37" d="M782.0 176C782.0 101 497.4 101 497.4 176"/>
+<path class="a a7" pathLength="1" stroke-width="1.2" stroke-opacity="0.40" d="M782.0 176C782.0 118 592.3 118 592.3 176"/>
+<path class="a a7" pathLength="1" stroke-width="2.2" stroke-opacity="0.61" d="M782.0 176C782.0 135 687.1 135 687.1 176"/>
+</svg>
